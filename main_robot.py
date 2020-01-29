@@ -11,7 +11,6 @@ import libmaster_board_sdk_pywrap as mbs
 import numpy as np
 
 # import the controller class with its parameters
-#from PDff_controller import controller, q0, omega
 import log_class
 import EmergencyStop_controller
 from masterboard_utils import *
